@@ -85,5 +85,8 @@ Client-side
 ```
 
 ## 기타
-1) strapi 계정
+1) 계정
+- Strapi
+- MySQL
+ 
 2) notion
