@@ -16,8 +16,7 @@ Server-side
 
 Client-side
 - 뷰 레이어 : React, next.js
-- 라우팅 : React-router ?
-- 프론트엔드 프레임워크 : Bootstrap ?
+- CSS 라이브러리 : Bootstrap, Material UI
 
 ## 3. 폴더 구조
 ```bash
@@ -83,7 +82,8 @@ Client-side
     └── styles/
         └── Home.module.css
 
-
 ```
+
 ## 기타
 1) strapi 계정
+2) notion
